@@ -13,4 +13,4 @@ This repository contains front-end projects built following the [roadmap.sh](htt
 
 Click any of the images below to view the README and live demo of the project.
 
-[![Single Page CV](./assets/single-page-cv.png)](./basic-html-website)
+[![Single Page CV](./assets/single-page-cv.png)]
